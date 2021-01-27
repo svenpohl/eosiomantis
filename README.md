@@ -9,7 +9,7 @@ https://xuso.de/demo/
 
 # features / shortcodes for wordpress
 
-* Anchor-Wallet login []
+* Anchor-Wallet login 
 * Show EOS-balance of logged in account/accountname
 * Simple donation area (configurable amounts)
 
