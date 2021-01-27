@@ -1,0 +1,2 @@
+# eosiomantis
+Wordpress EOSIO-Plugin
